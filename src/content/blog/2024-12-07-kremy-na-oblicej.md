@@ -7,6 +7,7 @@ draft: false
 tags:
   - kremy
   - oblicej
+description: this is description
 ---
 1.  ![](//01.jpg)_Luxusně lehký anti-age krém s peptidy_ - Tento krém kombinuje sílu peptidů s lehkou texturou pro optimální péči o pleť. Krém efektivně bojuje proti viditelným známkám stárnutí, vyhlazuje jemné linky a vrásky, přičemž poskytuje intenzivní hydrataci. Díky své lehké konzistenci se snadno vstřebává a nezanechává mastný film, což z něj činí ideální volbu pro každodenní použití.
     
